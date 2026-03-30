@@ -31,10 +31,10 @@ Right now, I'm focused on improving my problem‑solving skills, learning how to
 ---
 
 ### 📄 My CV
-[View my CV](cv.md) *(Markdown version – opens as a webpage)*
+[View my CV](cv.md) 
 
 ### 🎥 Mock Interview Video
-[Watch my mock interview](interview video.mov) *(downloads or plays in browser)*
+[Watch my mock interview](interview video.mov) 
 
 ---
 
