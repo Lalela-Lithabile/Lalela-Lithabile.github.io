@@ -34,7 +34,7 @@ Right now, I'm focused on improving my problem‑solving skills, learning how to
 [View my CV](cv.md) 
 
 ### 🎥 Mock Interview Video
-[Watch my mock interview](interview video.mov) 
+[Watch my mock interview](https://1drv.ms/v/c/e4336990a69b2a35/IQAI4ZEv3cULQ577t8CDcDqqAbVYeJeydFVQ9fduubXtO7Q?e=crJ5BT)
 
 ---
 
