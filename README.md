@@ -19,7 +19,7 @@ Right now, I'm focused on improving my problem‑solving skills, learning how to
 ### 👯 I'm looking to collaborate on
 
 - Beginner‑friendly open source projects
-- Hackathons and study groups – I believe in growing together
+- Hackathons and study groups, I believe in growing together
 
 ---
 
