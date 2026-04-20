@@ -1,54 +1,115 @@
-## 👋 Hi there, I'm Lithabile Lalela
-
-### IT Student | Aspiring Developer
-
----
-
-### 🧑‍💻 About Me
-
-I'm an IT student with a growing passion for building things with code. My journey started with curiosity: I wanted to understand how websites work, how software is made, and how technology can solve everyday problems.
-
-I enjoy turning ideas into small, functional projects – whether it's a web interface, a Java application, or a simple tool that makes life a little easier. I believe in learning by doing, and I'm not afraid to break things (that's how you learn to fix them).
-
-Right now, I'm focused on improving my problem‑solving skills, learning how to work effectively in teams, and gaining confidence in fast‑paced environments.
-
-**⚡ Fun fact:** I built my first website before I knew what "responsive design" meant – it looked terrible on mobile, but it worked! That taught me that done is better than perfect, and you can always improve later.
+# Lithabile Lalela — Digital Portfolio
+### PRP370S | Project Presentation 3
 
 ---
 
-### 👯 I'm looking to collaborate on
+##  GitHub Student Account
 
-- Beginner‑friendly open source projects
-- Hackathons and study groups, I believe in growing together
 
----
+<img width="1909" height="986" alt="Screenshot 2026-04-20 204411" src="https://github.com/user-attachments/assets/584e5292-ad02-4dca-a138-8974b1d14562" />
 
-### 📫 How to reach me
-
-- **Email:** [lalelalithabile@gmail.com](mailto:lalelalithabile@gmail.com) / [221340963@mycput.ac.za](mailto:221340963@mycput.ac.za)
-- **LinkedIn:** [Lithabile Lalela](https://www.linkedin.com/in/lalelalithabile)
 
 ---
 
-### 📄 My CV
-[View my CV](cv.md) 
+##  CV
+[View my CV](https://lalela-lithabile.github.io/cv.html)
 
-### 🎥 Mock Interview Video
-[Watch my mock interview](https://1drv.ms/v/c/e4336990a69b2a35/IQAI4ZEv3cULQ577t8CDcDqqAbVYeJeydFVQ9fduubXtO7Q?e=crJ5BT)
+### Reflection on Coding in Markdown
+
+**Situation:**
+As part of the Project Presentation 3 module, I was required to design
+and develop a digital portfolio to showcase my work readiness. Initially,
+I assumed the task involved building a traditional website, as I had
+already begun developing one independently.
+
+**Task:**
+Upon receiving the brief, I learned that the portfolio had to be coded
+using Markdown language and hosted on GitHub. This introduced two
+unfamiliar elements: Markdown as a formatting language, and GitHub as a
+deployment platform.
+
+**Action:**
+I conducted independent research to understand what Markdown is and how
+it functions. I found that Markdown itself was relatively straightforward
+to learn. The greater challenge was working within GitHub — specifically
+understanding how to commit changes, manage repositories, and deploy
+content. I worked through these processes by consulting online resources
+and applying what I learned through trial and error.
+
+**Result:**
+I successfully created and published my portfolio using Markdown on
+GitHub. Through this process, I developed a foundational understanding
+of Markdown syntax and improved my confidence in using GitHub as a
+version control and deployment platform. I now appreciate Markdown as
+a practical and efficient tool for web-based communication.
 
 ---
 
-### 🛠️ Technologies I'm comfortable with
+##  Mock Interview Video
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Apache Derby](https://img.shields.io/badge/Apache_Derby-FF6B6B?style=flat-square&logo=apache&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<div align="center">
+  <a href="https://drive.google.com/file/d/1Akj9J9I3QzPfd0_2oDrLjARf1FYw423O/view?usp=sharing">
+    <img src="https://img.shields.io/badge/▶%20Watch%20Mock%20Interview-Click%20Here-red?style=for-the-badge" 
+    alt="Mock Interview Video"/>
+  </a>
+</div>
+
+### Reflection on Mock Interview Video 
+
+**Situation:**
+As part of the work readiness component of this module, I was required
+to record a mock interview video to simulate a real-world job interview
+experience.
+
+**Task:**
+I needed to select appropriate interview questions, prepare my responses,
+record the video, and submit it as part of my digital portfolio.
+
+**Action:**
+I selected questions from the provided brief that I felt most confident
+answering. I practised my responses in advance to ensure I was prepared.
+Despite my preparation, I experienced significant nerves during the
+recording — a challenge I had not fully anticipated, as the anxiety of
+being recorded was comparable to, if not greater than, the pressure of
+a real interview setting.
+
+**Result:**
+Although I did not perform as well as I had hoped due to nerves, the
+experience was highly valuable. It highlighted the importance of
+interview preparation and exposed areas where I need to grow,
+particularly in managing anxiety under pressure. This exercise gave me
+a realistic preview of professional interview settings and motivated me
+to continue practising my communication skills.
 
 ---
 
-> *“Every expert was once a beginner.”*
+##  GitHub Pages
+
+**Evidence:** <img width="1852" height="1038" alt="Github" src="https://github.com/user-attachments/assets/0cfe460d-4f29-4622-86a6-10e0e2885860" />
+
+
+
+### Reflection on GitHub Pages
+
+**Situation:**
+Once my portfolio content was complete, I was required to deploy it as
+a live website using GitHub Pages so that it could be publicly accessible
+and submitted as evidence.
+
+**Task:**
+My task was to configure my GitHub repository to publish via GitHub Pages
+and ensure the portfolio was fully functional and accessible via a public
+URL.
+
+**Action:**
+I researched the deployment process using online resources, which provided
+clear step-by-step guidance. I followed these instructions to enable
+GitHub Pages through my repository settings and verified that the site
+was live and displaying correctly.
+
+**Result:**
+My portfolio was successfully deployed and is publicly accessible at
+https://lalela-ithabile.github.io/. This experience taught me that
+deploying a website does not have to be a complex process when the right
+tools and resources are used. It also reinforced my understanding of how
+GitHub can serve as both a version control system and a hosting platform.
