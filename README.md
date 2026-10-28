@@ -114,3 +114,24 @@ https://lalela-ithabile.github.io/. This experience taught me that
 deploying a website does not have to be a complex process when the right
 tools and resources are used. It also reinforced my understanding of how
 GitHub can serve as both a version control system and a hosting platform.
+
+# Semester 2
+
+## GugsLocalConnect — Community Service Platform
+
+GugsLocalConnect is a community-based digital platform designed to connect residents of Gugulethu with local businesses and service providers. The project aims to improve the visibility of local businesses, make services easier to discover, and support the local community.
+
+During this project, our team used Agile principles to organise work, define user requirements, plan sprints, allocate responsibilities, and track development progress using Trello.
+
+**My Role:** Product Owner
+
+My responsibility was to help ensure that the final system addressed users' needs and stakeholder expectations.
+
+## Project Evidence
+
+- **Live Application:** [GugsLocalConnect](https://gug-local-connect1-ashen.vercel.app/)
+- **Frontend Repository:** [GitHub — GugsLocalConnect Frontend](https://github.com/BongikaziMnyamana/GugLocalConnect1)
+- **Backend Repository:** [GitHub — GugsLocalConnect Backend](https://github.com/sethujunior/GugsLocalConnect-Backend)
+- **Project Management:** [Trello — GugsLocalConnect Task Board](https://trello.com/invite/b/69f8a3a0575df2b4dc923cc0/ATTIdade644f2320a582ad4ddaf770408593A323F557/gugslocalconnect-task-board)
+
+
