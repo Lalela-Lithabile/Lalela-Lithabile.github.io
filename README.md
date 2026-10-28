@@ -134,4 +134,34 @@ My responsibility was to help ensure that the final system addressed users' need
 - **Backend Repository:** [GitHub — GugsLocalConnect Backend](https://github.com/sethujunior/GugsLocalConnect-Backend)
 - **Project Management:** [Trello — GugsLocalConnect Task Board](https://trello.com/invite/b/69f8a3a0575df2b4dc923cc0/ATTIdade644f2320a582ad4ddaf770408593A323F557/gugslocalconnect-task-board)
 
+---
 
+## Agile Team Charter
+
+---
+
+**Evidence:** 
+
+The Agile Team Charter defines the purpose of GugsLocalConnect, the team's roles and responsibilities, core values, communication methods, project goals, milestones, and team agreements. The project aims to connect residents of Gugulethu with local businesses and service providers, making it easier for residents to discover services while supporting local businesses.
+
+My role in the project was **Product Owner**. My responsibility was to help ensure that the final system addressed users' needs and stakeholder expectations.
+
+### Reflection on the Agile Team Charter 
+
+**Situation:**
+
+Our team needed a shared understanding of the GugsLocalConnect project, its objectives, and how we would work together to develop a community-based digital platform.
+
+**Task:**
+
+As Product Owner, I needed to understand the project's goals and responsibilities while helping ensure that the team's work remained focused on delivering a platform that addressed users' needs and stakeholder expectations.
+
+**Action:**
+
+The team used the Agile Team Charter to establish project goals, define team roles, agree on shared values, and identify communication methods. We used WhatsApp to communicate, meetings to discuss project activities, and Trello to organise tasks and monitor progress. These arrangements helped establish a common understanding of how we would collaborate and manage our responsibilities.
+
+**Result:**
+
+The Agile Team Charter provided a shared direction for the project and helped me understand the importance of clear responsibilities, effective communication, and accountability. I learned that successful project development requires teamwork and planning, as well as a clear understanding of user needs. This experience strengthened my understanding of how Agile practices support collaboration and help keep development aligned with project objectives.
+
+---
