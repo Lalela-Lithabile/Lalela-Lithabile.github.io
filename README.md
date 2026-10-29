@@ -114,8 +114,7 @@ https://lalela-ithabile.github.io/. This experience taught me that
 deploying a website does not have to be a complex process when the right
 tools and resources are used. It also reinforced my understanding of how
 GitHub can serve as both a version control system and a hosting platform.
-
-## Semester 2 – Entrepreneurial WIL Project
+# Semester 2 – Entrepreneurial WIL Project
 
 **GugsLocalConnect**
 
@@ -125,7 +124,7 @@ Our team used Agile principles to organise tasks, define requirements, plan spri
 
 **My Role:** Analyst
 
-My responsibility was to analyse user needs and help define system requirements and user stories to guide the development of the platform.
+My role involved analysing user needs and helping define system requirements and user stories to guide the development of the platform.
 
 **Project Evidence:**
 
@@ -134,35 +133,35 @@ My responsibility was to analyse user needs and help define system requirements 
 - **Backend Repository:** [View Backend on GitHub](https://github.com/sethujunior/GugsLocalConnect-Backend)
 - **Trello Task Board:** [View GugsLocalConnect Board](https://trello.com/invite/b/69f8a3a0575df2b4dc923cc0/ATTIdade644f2320a582ad4ddaf770408593A323F557/gugslocalconnect-task-board)
 
-## Agile Team Charter
-
 ---
+
+## Agile Team Charter
 
 **Evidence:** [View my Agile Team Charter](https://github.com/Lalela-Lithabile/Lalela-Lithabile.github.io/blob/main/PRP3.TEAM.CHARTER.1.docx)
 
-The Agile Team Charter outlines the purpose of GugsLocalConnect, the team's vision, roles and responsibilities, shared values, communication methods, project goals, milestones, and team agreements. It establishes a common understanding of how the team will collaborate and work towards developing a platform that connects residents with local businesses and service providers.
+The Agile Team Charter outlines the purpose of GugsLocalConnect, the team's vision, roles and responsibilities, shared values, communication methods, project goals, milestones, and team agreements. It establishes a common understanding of how team members should collaborate and work towards developing a platform that connects residents with local businesses and service providers.
 
-### Reflection on the Agile Team Charter 
+### Reflection on the Agile Team Charter
 
 **Situation:**
 
-Our team needed a clear understanding of the GugsLocalConnect project's purpose, goals, and expectations. Since each member had a different responsibility, we needed an agreement that would guide our collaboration and help everyone work towards the same objective.
+When working on GugsLocalConnect, our team needed a shared understanding of the project's purpose, goals, and expectations. Since each member had different responsibilities, we needed agreements that would help us work together and stay focused on the same objective.
 
 **Task:**
 
-As the Analyst, my responsibility was to understand the project's objectives and focus on identifying user needs and system requirements. I needed to understand how the platform could benefit residents and local service providers so that the requirements would support the intended purpose of the system.
+The charter needed to establish clear responsibilities, communication methods, and expectations for the team. It was also important to understand how our individual responsibilities contributed to the overall project.
 
 **Action:**
 
-The team used the Agile Team Charter to establish responsibilities, agree on shared values, and identify communication methods. We used WhatsApp and team meetings to discuss project activities, while Trello helped us organise tasks and monitor progress. I used my understanding of the project's goals to recognise the importance of clear requirements and ensuring that the system addressed users' needs.
+The team used the Agile Team Charter to outline our roles, shared values, communication methods, and project goals. WhatsApp and team meetings were used to discuss project activities, while Trello helped us organise tasks and monitor progress. As I considered the project's requirements and intended users, I could see how clear team agreements supported the work we needed to do.
 
 **Result:**
 
-The charter helped establish a shared direction and improved my understanding of how clear responsibilities and communication support teamwork. I learned that an Analyst plays an important role in understanding user needs and defining requirements that guide system development. This experience also helped me appreciate how Agile practices encourage collaboration, accountability, and continuous improvement throughout a project.
-
-## User Stories and Tasks
+The experience helped me understand that successful teamwork involves more than dividing tasks between members. Clear communication, accountability, and a shared understanding of the project are also important. I gained a better appreciation of how an Agile Team Charter can guide collaboration and help a team work towards a common goal.
 
 ---
+
+## User Stories and Tasks
 
 **Evidence:** [View User Stories and Tasks on Trello](https://trello.com/invite/b/69f8a3a0575df2b4dc923cc0/ATTIdade644f2320a582ad4ddaf770408593A323F557/gugslocalconnect-task-board)
 
@@ -170,104 +169,104 @@ The charter helped establish a shared direction and improved my understanding of
 
 ![User Stories and Tasks Screenshot](user-stories%20.png)
 
-The screenshot shows a Sprint 3 user story focused on identifying the different users of GugsLocalConnect, including customers, business owners, and administrators. This helps the team understand who will use the platform and determine the appropriate roles and access levels.
+The screenshot shows a Trello task focused on identifying the different users of GugsLocalConnect, including customers, business owners, and administrators. Understanding these user groups helps clarify who will interact with the platform and what needs, features, or access levels may apply to each group.
 
-### Reflection on User Stories and Tasks 
+### Reflection on User Stories and Tasks
 
 **Situation:**
 
-Our team needed to identify the different users of GugsLocalConnect and understand their needs. This was important because each user group may interact with the platform differently and require different features or permissions.
+GugsLocalConnect is intended to serve different groups of users. Understanding these groups is important because customers, business owners, and administrators may interact with the platform in different ways.
 
 **Task:**
 
-As the Analyst, my responsibility was to help analyse user needs and identify system requirements that would guide the development of the platform. Understanding the different user groups helped clarify what the system needed to support.
+Identifying the intended users helped clarify whose needs the platform needed to address and what functionality might be required to support them.
 
 **Action:**
 
-The team documented the user story in Trello and used a checklist to break the task into smaller activities and track completion. This helped organise the work and made progress easier to monitor.
+The team documented the task in Trello and used a checklist to break the work into smaller activities. This made the task easier to organise and provided a way to track its progress. Considering the different user groups also helped clarify why their needs should be considered when defining system requirements.
 
 **Result:**
 
-I learned how user stories translate user needs into clear development tasks. I also gained a better understanding of why identifying users and their access levels is important when defining system requirements and planning a system that meets users' needs.
-
-## Product Backlog
+I developed a better understanding of how identifying users provides a foundation for writing meaningful user stories and defining system requirements. I also learned that breaking work into smaller tasks makes activities easier to organise, track, and review.
 
 ---
+
+## Product Backlog
 
 **Evidence: Product Backlog**
 
 ![GugsLocalConnect Product Backlog](product-backlog.png)
 
-The Product Backlog contains the main features planned for GugsLocalConnect, including business profile management, service listings, search functionality, category filtering, and contacting businesses. These features help organise the functionality required to meet the needs of residents and local service providers.
+The Product Backlog contains the main features planned for GugsLocalConnect, including business profile management, service listings, search functionality, category filtering, and contacting businesses. These features help organise the functionality intended to meet the needs of residents and local service providers.
 
-### Reflection on the Product Backlog (STAR Method)
+### Reflection on the Product Backlog
 
 **Situation:**
 
-Our team needed to identify and organise the main features required for GugsLocalConnect. Having a backlog helped us keep track of the functionality planned for the platform.
+GugsLocalConnect needed a clear overview of the features required to support its purpose of connecting residents with local businesses and service providers.
 
 **Task:**
 
-As the Analyst, my responsibility was to understand user needs and help identify requirements that could be translated into system features.
+An important part of the planning process was understanding how users' needs could be translated into useful system features and organised to guide development.
 
 **Action:**
 
-The team organised planned features in Trello, including business profile management, service listings, search functionality, and category filtering. This made the planned work easier to view and helped the team keep track of the features required.
+The team organised planned features in Trello, including business profile management, service listings, search functionality, and category filtering. Reviewing these features helped connect the platform's purpose with the functionality planned for its intended users.
 
 **Result:**
 
-I learned how a Product Backlog helps organise requirements and prioritise the work needed to develop a system. I also gained a better understanding of how user needs can be translated into features that provide value to the intended users.
-
-## Sprint Backlog
+I gained a clearer understanding of how a Product Backlog helps organise the features required for a system. I also learned that requirements should be considered in terms of the value they provide to users, rather than treating each feature as an isolated development task.
 
 ---
+
+## Sprint Backlog
 
 **Evidence: GugsLocalConnect Sprint Board**
 
 ![GugsLocalConnect Sprint Backlog](Sprint-Backlog.png)
 
-The screenshot shows the team's work organised into six sprints, covering research and problem identification, business planning, requirements analysis, system design, UI/UX design, and frontend development. The Trello board helps the team organise tasks, monitor progress, and keep track of planned activities throughout the project.
+The screenshot shows the project's work organised into six stages covering research and problem identification, business planning, requirements analysis, system design, UI/UX design, and frontend development. The Trello board provides an overview of how project activities are organised and helps the team monitor planned work and progress.
 
-### Reflection on the Sprint Backlog (STAR Method)
+### Reflection on the Sprint Backlog
 
 **Situation:**
 
-Our team needed to divide the GugsLocalConnect project into manageable stages so that the work could be organised and monitored throughout development.
+The project involved several activities, from understanding the problem and identifying requirements to designing and developing the platform. These activities needed to be organised so that the team could understand the project's progress and the work that lay ahead.
 
 **Task:**
 
-As the Analyst, my responsibility was to understand the system requirements and how they related to the tasks planned for each sprint. This helped me understand how requirements contributed to the overall project objectives.
+Understanding how the different stages fitted together helped clarify how individual activities contributed to the overall project goals.
 
 **Action:**
 
-The team used Trello to organise tasks into sprints, with each sprint focusing on a different project stage. The board included activities such as gathering requirements, identifying system users, designing the database, and developing user interface pages.
+The team used Trello to group project activities into stages, including requirements analysis, system design, UI/UX design, and frontend development. This provided a structured overview of the work and made the relationship between different project activities easier to understand.
 
 **Result:**
 
-I learned how sprint backlogs help teams organise project work and monitor progress. I also gained a better understanding of how system requirements connect to development activities and how Agile planning supports teamwork and project coordination.
-
-## Agile Logbook
+I learned how Agile planning helps break a larger project into more manageable stages. I also gained a better understanding of how requirements, design, and development activities relate to one another and contribute to the overall project.
 
 ---
 
+## Agile Logbook
+
 **Evidence:** [View my Agile Logbook (PDF)](PRP37XS_Agile_Logbook.pdf)
 
-The Agile Logbook records the team's progress on GugsLocalConnect between 4 and 7 August 2026. It includes daily updates on frontend development, the Brand Guide, business model planning, upcoming tasks, and challenges affecting the project.
+The Agile Logbook records the team's progress between 4 and 7 August 2026. Its entries cover frontend development, the Brand Guide, business model planning, upcoming activities, and challenges encountered during the project. It also records completed work, planned next steps, and issues that required attention.
 
-### Reflection on the Agile Logbook 
+### Reflection on the Agile Logbook
 
 **Situation:**
 
-Our team needed to record project progress and keep track of completed work, planned activities, and challenges during development.
+During the project, the team worked on several activities, including frontend development, branding, and business model planning. Keeping track of progress was important for understanding what had been completed, what remained, and which challenges could affect the work.
 
 **Task:**
 
-As the Analyst, I needed to understand the project's progress and how the team's activities related to the requirements and objectives of GugsLocalConnect.
+The logbook provided a way to follow project progress, review outstanding activities, and recognise challenges that needed attention.
 
 **Action:**
 
-The logbook documented daily progress, upcoming tasks, and possible risks. The team also used a taskboard and walkthrough questions to review work, identify challenges, and discuss what needed to be completed next.
+The logbook recorded daily progress, planned activities, and challenges. The accompanying taskboard and walkthrough questions provided further context about completed work, remaining frontend tasks, preparation for backend integration, and the need for coordination between team members.
 
 **Result:**
 
-I learned that an Agile Logbook helps teams monitor progress, communicate challenges, and plan their next steps. It also helped me understand the importance of regular updates and identifying risks early so that the team can work towards its project goals.
+The experience helped me appreciate the importance of maintaining a record of project activities and reviewing progress regularly. I learned that documenting next steps, communicating outstanding work, and identifying challenges early can help a team plan more effectively and respond to potential delays.
