@@ -115,18 +115,24 @@ deploying a website does not have to be a complex process when the right
 tools and resources are used. It also reinforced my understanding of how
 GitHub can serve as both a version control system and a hosting platform.
 
-## Semester 2 – Entrepreneurial WIL Project:
+## Semester 2 – Entrepreneurial WIL Project
 
 **GugsLocalConnect**
 
 GugsLocalConnect is a community-based digital platform designed to connect residents of Gugulethu with local businesses and service providers. The project aims to improve the visibility of local businesses, make services easier to discover, and support the local community.
 
-Our team used Agile principles to organise tasks, define requirements, plan sprints, assign responsibilities, and track progress using Trello. This helped the team manage project activities and work towards the project's objectives.
+Our team used Agile principles to organise tasks, define requirements, plan sprints, assign responsibilities, and track progress using Trello.
 
 **My Role:** Analyst
 
-My responsibility was to analyse user needs and help define system requirements and user stories. This involved understanding what residents and local service providers would need from the platform and helping translate those needs into requirements that could guide development.
+My responsibility was to analyse user needs and help define system requirements and user stories to guide the development of the platform.
 
+**Project Evidence:**
+
+- **Live Application:** [Visit GugsLocalConnect](https://gug-local-connect1-ashen.vercel.app/)
+- **Frontend Repository:** [View Frontend on GitHub](https://github.com/BongikaziMnyamana/GugLocalConnect1)
+- **Backend Repository:** [View Backend on GitHub](https://github.com/sethujunior/GugsLocalConnect-Backend)
+- **Trello Task Board:** [View GugsLocalConnect Board](https://trello.com/invite/b/69f8a3a0575df2b4dc923cc0/ATTIdade644f2320a582ad4ddaf770408593A323F557/gugslocalconnect-task-board)
 
 ## Agile Team Charter
 
