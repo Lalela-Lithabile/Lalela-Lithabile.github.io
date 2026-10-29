@@ -250,7 +250,7 @@ I learned how sprint backlogs help teams organise project work and monitor progr
 
 ---
 
-**Evidence:** [View my Agile Logbook (PDF)](PRP3.TEAM.CHARTER.1.docx)
+**Evidence:** [View my Agile Logbook (PDF)](PRP37XS_Agile_Logbook.pdf)
 
 The Agile Logbook records the team's progress on GugsLocalConnect between 4 and 7 August 2026. It includes daily updates on frontend development, the Brand Guide, business model planning, upcoming tasks, and challenges affecting the project.
 
