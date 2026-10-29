@@ -245,3 +245,29 @@ The team used Trello to organise tasks into sprints, with each sprint focusing o
 **Result:**
 
 I learned how sprint backlogs help teams organise project work and monitor progress. I also gained a better understanding of how system requirements connect to development activities and how Agile planning supports teamwork and project coordination.
+
+## Agile Logbook
+
+---
+
+**Evidence:** [View my Agile Logbook (PDF)](PRP3.TEAM.CHARTER.1.docx)
+
+The Agile Logbook records the team's progress on GugsLocalConnect between 4 and 7 August 2026. It includes daily updates on frontend development, the Brand Guide, business model planning, upcoming tasks, and challenges affecting the project.
+
+### Reflection on the Agile Logbook 
+
+**Situation:**
+
+Our team needed to record project progress and keep track of completed work, planned activities, and challenges during development.
+
+**Task:**
+
+As the Analyst, I needed to understand the project's progress and how the team's activities related to the requirements and objectives of GugsLocalConnect.
+
+**Action:**
+
+The logbook documented daily progress, upcoming tasks, and possible risks. The team also used a taskboard and walkthrough questions to review work, identify challenges, and discuss what needed to be completed next.
+
+**Result:**
+
+I learned that an Agile Logbook helps teams monitor progress, communicate challenges, and plan their next steps. It also helped me understand the importance of regular updates and identifying risks early so that the team can work towards its project goals.
