@@ -166,32 +166,26 @@ The charter helped establish a shared direction and improved my understanding of
 
 **Evidence:** [View User Stories and Tasks on Trello](https://trello.com/invite/b/69f8a3a0575df2b4dc923cc0/ATTIdade644f2320a582ad4ddaf770408593A323F557/gugslocalconnect-task-board)
 
-The screenshot shows a Sprint 3 task focused on identifying system users, including customers, business owners, and administrators. This user story helps establish user roles and access levels for GugsLocalConnect. Identifying these users also helps the team understand who will interact with the platform and what permissions they may need.
-
-## User Stories and Tasks
-
----
-
-**Evidence:** [View User Stories and Tasks on Trello](YOUR_TRELLO_LINK_HERE)
+**Screenshot Evidence: Sprint 3 – Identify System Users**
 
 ![User Stories and Tasks Screenshot](user-stories%20.png)
 
-The screenshot shows a Sprint 3 task focused on identifying customers, business owners, and administrators. This user story helps establish user roles and access levels for GugsLocalConnect.
+The screenshot shows a Sprint 3 user story focused on identifying the different users of GugsLocalConnect, including customers, business owners, and administrators. This helps the team understand who will use the platform and determine the appropriate roles and access levels.
 
-### Reflection on User Stories and Tasks
+### Reflection on User Stories and Tasks 
 
 **Situation:**
 
-The team needed to identify the different users of GugsLocalConnect and understand their needs. Different users may require different features and access permissions.
+Our team needed to identify the different users of GugsLocalConnect and understand their needs. This was important because each user group may interact with the platform differently and require different features or permissions.
 
 **Task:**
 
-As the Analyst, my responsibility was to help analyse user needs and identify requirements that would guide the development of the platform.
+As the Analyst, my responsibility was to help analyse user needs and identify system requirements that would guide the development of the platform. Understanding the different user groups helped clarify what the system needed to support.
 
 **Action:**
 
-The team documented the user story in Trello and used a checklist to break the task into smaller activities and track its completion. This helped organise the work and monitor progress.
+The team documented the user story in Trello and used a checklist to break the task into smaller activities and track completion. This helped organise the work and made progress easier to monitor.
 
 **Result:**
 
-I learned how user stories translate user needs into development tasks. I also gained a better understanding of why identifying system users and their access levels is important when defining system requirements.
+I learned how user stories translate user needs into clear development tasks. I also gained a better understanding of why identifying users and their access levels is important when defining system requirements and planning a system that meets users' needs.
