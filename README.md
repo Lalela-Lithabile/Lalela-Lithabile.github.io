@@ -189,3 +189,59 @@ The team documented the user story in Trello and used a checklist to break the t
 **Result:**
 
 I learned how user stories translate user needs into clear development tasks. I also gained a better understanding of why identifying users and their access levels is important when defining system requirements and planning a system that meets users' needs.
+
+## Product Backlog
+
+---
+
+**Evidence: Product Backlog**
+
+![GugsLocalConnect Product Backlog](product-backlog.png)
+
+The Product Backlog contains the main features planned for GugsLocalConnect, including business profile management, service listings, search functionality, category filtering, and contacting businesses. These features help organise the functionality required to meet the needs of residents and local service providers.
+
+### Reflection on the Product Backlog (STAR Method)
+
+**Situation:**
+
+Our team needed to identify and organise the main features required for GugsLocalConnect. Having a backlog helped us keep track of the functionality planned for the platform.
+
+**Task:**
+
+As the Analyst, my responsibility was to understand user needs and help identify requirements that could be translated into system features.
+
+**Action:**
+
+The team organised planned features in Trello, including business profile management, service listings, search functionality, and category filtering. This made the planned work easier to view and helped the team keep track of the features required.
+
+**Result:**
+
+I learned how a Product Backlog helps organise requirements and prioritise the work needed to develop a system. I also gained a better understanding of how user needs can be translated into features that provide value to the intended users.
+
+## Sprint Backlog
+
+---
+
+**Evidence: GugsLocalConnect Sprint Board**
+
+![GugsLocalConnect Sprint Backlog](Sprint-Backlog.png)
+
+The screenshot shows the team's work organised into six sprints, covering research and problem identification, business planning, requirements analysis, system design, UI/UX design, and frontend development. The Trello board helps the team organise tasks, monitor progress, and keep track of planned activities throughout the project.
+
+### Reflection on the Sprint Backlog (STAR Method)
+
+**Situation:**
+
+Our team needed to divide the GugsLocalConnect project into manageable stages so that the work could be organised and monitored throughout development.
+
+**Task:**
+
+As the Analyst, my responsibility was to understand the system requirements and how they related to the tasks planned for each sprint. This helped me understand how requirements contributed to the overall project objectives.
+
+**Action:**
+
+The team used Trello to organise tasks into sprints, with each sprint focusing on a different project stage. The board included activities such as gathering requirements, identifying system users, designing the database, and developing user interface pages.
+
+**Result:**
+
+I learned how sprint backlogs help teams organise project work and monitor progress. I also gained a better understanding of how system requirements connect to development activities and how Agile planning supports teamwork and project coordination.
