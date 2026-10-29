@@ -115,53 +115,42 @@ deploying a website does not have to be a complex process when the right
 tools and resources are used. It also reinforced my understanding of how
 GitHub can serve as both a version control system and a hosting platform.
 
-# Semester 2
+## Semester 2 – Entrepreneurial WIL Project:
 
-## GugsLocalConnect — Community Service Platform
+**GugsLocalConnect**
 
 GugsLocalConnect is a community-based digital platform designed to connect residents of Gugulethu with local businesses and service providers. The project aims to improve the visibility of local businesses, make services easier to discover, and support the local community.
 
-During this project, our team used Agile principles to organise work, define user requirements, plan sprints, allocate responsibilities, and track development progress using Trello.
+Our team used Agile principles to organise tasks, define requirements, plan sprints, assign responsibilities, and track progress using Trello. This helped the team manage project activities and work towards the project's objectives.
 
-**My Role:** Product Owner
+**My Role:** Analyst
 
-My responsibility was to help ensure that the final system addressed users' needs and stakeholder expectations.
+My responsibility was to analyse user needs and help define system requirements and user stories. This involved understanding what residents and local service providers would need from the platform and helping translate those needs into requirements that could guide development.
 
-## Project Evidence
-
-- **Live Application:** [GugsLocalConnect](https://gug-local-connect1-ashen.vercel.app/)
-- **Frontend Repository:** [GitHub — GugsLocalConnect Frontend](https://github.com/BongikaziMnyamana/GugLocalConnect1)
-- **Backend Repository:** [GitHub — GugsLocalConnect Backend](https://github.com/sethujunior/GugsLocalConnect-Backend)
-- **Project Management:** [Trello — GugsLocalConnect Task Board](https://trello.com/invite/b/69f8a3a0575df2b4dc923cc0/ATTIdade644f2320a582ad4ddaf770408593A323F557/gugslocalconnect-task-board)
-
----
 
 ## Agile Team Charter
 
 ---
 
-**Evidence:** 
+**Evidence:** [View my Agile Team Charter](https://github.com/Lalela-Lithabile/Lalela-Lithabile.github.io/blob/main/PRP3.TEAM.CHARTER.1.docx)
 
-The Agile Team Charter defines the purpose of GugsLocalConnect, the team's roles and responsibilities, core values, communication methods, project goals, milestones, and team agreements. The project aims to connect residents of Gugulethu with local businesses and service providers, making it easier for residents to discover services while supporting local businesses.
-
-My role in the project was **Product Owner**. My responsibility was to help ensure that the final system addressed users' needs and stakeholder expectations.
+The Agile Team Charter outlines the purpose of GugsLocalConnect, the team's vision, roles and responsibilities, shared values, communication methods, project goals, milestones, and team agreements. It establishes a common understanding of how the team will collaborate and work towards developing a platform that connects residents with local businesses and service providers.
 
 ### Reflection on the Agile Team Charter 
 
 **Situation:**
 
-Our team needed a shared understanding of the GugsLocalConnect project, its objectives, and how we would work together to develop a community-based digital platform.
+Our team needed a clear understanding of the GugsLocalConnect project's purpose, goals, and expectations. Since each member had a different responsibility, we needed an agreement that would guide our collaboration and help everyone work towards the same objective.
 
 **Task:**
 
-As Product Owner, I needed to understand the project's goals and responsibilities while helping ensure that the team's work remained focused on delivering a platform that addressed users' needs and stakeholder expectations.
+As the Analyst, my responsibility was to understand the project's objectives and focus on identifying user needs and system requirements. I needed to understand how the platform could benefit residents and local service providers so that the requirements would support the intended purpose of the system.
 
 **Action:**
 
-The team used the Agile Team Charter to establish project goals, define team roles, agree on shared values, and identify communication methods. We used WhatsApp to communicate, meetings to discuss project activities, and Trello to organise tasks and monitor progress. These arrangements helped establish a common understanding of how we would collaborate and manage our responsibilities.
+The team used the Agile Team Charter to establish responsibilities, agree on shared values, and identify communication methods. We used WhatsApp and team meetings to discuss project activities, while Trello helped us organise tasks and monitor progress. I used my understanding of the project's goals to recognise the importance of clear requirements and ensuring that the system addressed users' needs.
 
 **Result:**
 
-The Agile Team Charter provided a shared direction for the project and helped me understand the importance of clear responsibilities, effective communication, and accountability. I learned that successful project development requires teamwork and planning, as well as a clear understanding of user needs. This experience strengthened my understanding of how Agile practices support collaboration and help keep development aligned with project objectives.
+The charter helped establish a shared direction and improved my understanding of how clear responsibilities and communication support teamwork. I learned that an Analyst plays an important role in understanding user needs and defining requirements that guide system development. This experience also helped me appreciate how Agile practices encourage collaboration, accountability, and continuous improvement throughout a project.
 
----
