@@ -46,14 +46,12 @@ a practical and efficient tool for web-based communication.
 
 ---
 
-##  Mock Interview Video
+## Mock Interview Video
 
-<div align="center">
-  <a href="https://drive.google.com/file/d/1Akj9J9I3QzPfd0_2oDrLjARf1FYw423O/view?usp=sharing">
-    <img src="https://img.shields.io/badge/▶%20Watch%20Mock%20Interview-Click%20Here-red?style=for-the-badge" 
-    alt="Mock Interview Video"/>
-  </a>
-</div>
+<video width="640" controls>
+  <source src="./Mock%20Interview%20Video.mp4" type="video/mp4">
+  Your browser does not support embedded videos.
+</video>
 
 ### Reflection on Mock Interview Video 
 
