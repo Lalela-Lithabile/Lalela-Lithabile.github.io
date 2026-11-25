@@ -48,10 +48,11 @@ a practical and efficient tool for web-based communication.
 
 ## Mock Interview Video
 
-<video width="640" controls>
-  <source src="./Mock%20Interview%20Video.mp4" type="video/mp4">
-  Your browser does not support embedded videos.
-</video>
+
+
+https://github.com/user-attachments/assets/657e5ab3-5235-4ec3-b009-0bcfc9e943ce
+
+
 
 ### Reflection on Mock Interview Video 
 
