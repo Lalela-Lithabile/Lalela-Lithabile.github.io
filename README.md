@@ -49,8 +49,11 @@ a practical and efficient tool for web-based communication.
 ## Mock Interview Video
 
 
+## Mock Interview Video
 
-https://github.com/user-attachments/assets/657e5ab3-5235-4ec3-b009-0bcfc9e943ce
+<video src="https://github.com/user-attachments/assets/657e5ab3-5235-4ec3-b009-0bcfc9e943ce" controls width="640"></video>
+
+### Reflection on Mock Interview Video
 
 
 
